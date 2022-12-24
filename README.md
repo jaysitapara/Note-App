@@ -1,2 +1,2 @@
 # Note-App
-You can store and view your information from Note
+You can store and view your information from Note App
